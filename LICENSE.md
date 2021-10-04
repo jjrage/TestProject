@@ -1,4 +1,4 @@
-Copyright (C) 2017-2018 Maksym Kononchuk <maksym.kononchuk@onix-systems.com>
+Copyright (C) 2017-2021 Maksym Kononchuk <maksym.kononchuk@onix-systems.com>
 
 This file is part of the TestProject project.
 
